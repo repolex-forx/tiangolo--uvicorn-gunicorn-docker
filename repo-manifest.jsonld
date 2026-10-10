@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn-gunicorn-docker/commit/8858d49c5fd60c2662783c0b6b30481e0fa3b8ed",
       "git:hexsha": "8858d49c5fd60c2662783c0b6b30481e0fa3b8ed",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T04:40:08.267168+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn-gunicorn-docker/commit/37dbc188e555c22cf9b2dd0f3f6ab3e122e32c24",
