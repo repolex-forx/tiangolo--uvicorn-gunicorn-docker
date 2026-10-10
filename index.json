@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "uvicorn-gunicorn-docker",
+  "versions": [
+    {
+      "commit": "8858d49c5fd60c2662783c0b6b30481e0fa3b8ed",
+      "tag": "",
+      "parsed_at": "2026-10-10T04:40:08.267551+00:00"
+    }
+  ]
+}
